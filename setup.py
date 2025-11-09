@@ -5,6 +5,6 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     description="hello world package",
-    author="polarhost22",
+    author="polarhost",
     python_requires=">=3.6",
 )
